@@ -7,7 +7,7 @@
  
 <div align="center">
  
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=00ADD8&center=true&vCenter=true&width=700&lines=IT+Systems+Engineer+%E2%86%92+Aspiring+DevOps+Engineer;7%2B+years+in+IT+systems+%26+infrastructure;Learning+DevOps+in+public+via+%2390DaysOfDevOps%22 alt="typing banner" />
+<img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=00ADD8&center=true&vCenter=true&width=700&lines=IT+Systems+Engineer+%E2%86%92+Aspiring+DevOps+Engineer;7%2B+years+in+IT+systems+%26+infrastructure;Learning+DevOps+in+public+via+%2390DaysOfDevOps%22 alt="typing banner" />
  
 <img src="https://komarev.com/ghpvc/?username=ameertechy&label=Profile%20views&color=00ADD8&style=flat" alt="profile views" />
  
