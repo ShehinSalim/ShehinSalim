@@ -8,6 +8,7 @@
 <div align="center">
  
 <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=IT+System+Engineer+With+5 Years of +Experience)](https://git.io/typing-svg)?
+
  
 <img src="https://komarev.com/ghpvc/?username=ameertechy&label=Profile%20views&color=00ADD8&style=flat" alt="profile views" />
  
