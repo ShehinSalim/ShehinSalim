@@ -17,7 +17,7 @@
  
 ## 👋 Hi, I'm Shehin Salim
  
-I've spent **7+ years in IT support and systems engineering** — mostly in a Windows world: infrastructure, troubleshooting, and ITSM workflows. Now I'm making the move into **DevOps**, and I'm learning the Linux + cloud-native stack the honest way: hands-on, in public, one day at a time.
+I've spent **5+ years in Systems Engineering** — mostly in a Windows infrastructure, troubleshooting, and VM Ware support, Azure, Exchange, Nutanix . 
  
 I'm **not a DevOps expert yet — and not a fresher either.** Somewhere in between. The troubleshooting instinct from years of support (stay calm, find the root cause, don't guess) carries over nicely. The actual tooling — Linux, Git, containers — I'm picking up fresh through the **#90DaysOfDevOps** challenge, and writing down everything I learn.
  
